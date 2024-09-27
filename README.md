@@ -33,7 +33,7 @@ The program works by evaluating logical expressions based on the truth values of
 The user provides two logical propositions as input.
 
 propositions should involve the variables A, B, C and the logical operators & (AND), | (OR), ! (NOT), and parentheses ().
-if any other charcter entered the program will stop working
+if any other character entered the program will stop working
 
 DO not add any spaces between characters( EX: (EX: (A|B))
 
